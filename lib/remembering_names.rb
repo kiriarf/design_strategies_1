@@ -1,3 +1,3 @@
 def add_name(name)
-  "Name remembered!"
+  "Name remembered"
 end
